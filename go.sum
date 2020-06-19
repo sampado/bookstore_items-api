@@ -44,8 +44,8 @@ github.com/sampado/bookstore_oauth-go/oauth v0.0.0-20200605181124-41ba8c0f06b8 h
 github.com/sampado/bookstore_oauth-go/oauth v0.0.0-20200605181124-41ba8c0f06b8/go.mod h1:crGl3xj0AwFLY92DLjz2G7OQvGkBHY4p1iDKR8TFvvI=
 github.com/sampado/bookstore_utils-go v0.0.0-20200605175742-306770086be8 h1:wVgUxPKsU51OrAUWd/RxMC30Y7yYwN5v1jU5KvVRHI0=
 github.com/sampado/bookstore_utils-go v0.0.0-20200605175742-306770086be8/go.mod h1:JQGkfeWcUzO2BCk32npXRIGiz+00bSuXCIzQ72ZO4jg=
-github.com/sampado/bookstore_utils-go v1.0.0 h1:qu3jVI4SYenpIEb7v8ljmQjKlQ3AP/tvwhHKt8j3wDo=
-github.com/sampado/bookstore_utils-go v1.0.0/go.mod h1:cBJ3dXdf3aiVI2g046q62E3w4emAoYu0zIcoENWfLJI=
+github.com/sampado/bookstore_utils-go v1.0.1 h1:Fa3mTzVroy4HPm285HztYnaNHc/Qu+8BxXZQih14XRQ=
+github.com/sampado/bookstore_utils-go v1.0.1/go.mod h1:cBJ3dXdf3aiVI2g046q62E3w4emAoYu0zIcoENWfLJI=
 github.com/smartystreets/assertions v1.1.0/go.mod h1:tcbTF8ujkAEcZ8TElKY+i30BzYlVhC/LOxJk7iOWnoo=
 github.com/smartystreets/go-aws-auth v0.0.0-20180515143844-0c1422d1fdb9/go.mod h1:SnhjPscd9TpLiy1LpzGSKh3bXCfxxXuqd9xmQJy3slM=
 github.com/smartystreets/gunit v1.3.4/go.mod h1:ZjM1ozSIMJlAz/ay4SG8PeKF00ckUp+zMHZXV9/bvak=

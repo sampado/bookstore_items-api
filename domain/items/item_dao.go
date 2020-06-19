@@ -11,7 +11,7 @@ const (
 	indexItems = "items"
 )
 
-func (i *Item) Save() *rest_errors.RestError {
+func (i *Item) Save() rest_errors.RestError {
 	result, err := elasticsearch.Client.Index(indexItems, i)
 	if err != nil {
 		return rest_errors.NewInternalServerError("Error persisting the item", errors.New("database error"))
