@@ -25,5 +25,10 @@ func (s *itemsService) Create(item items.Item) (*items.Item, rest_errors.RestErr
 }
 
 func (s *itemsService) Get(id string) (*items.Item, rest_errors.RestError) {
-	return nil, rest_errors.NewInternalServerError("method not implemented", nil)
+	item := items.Item{Id: id}
+	if err := item.Get(); err != nil {
+		return nil, err
+	}
+
+	return &item, nil
 }
